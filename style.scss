@@ -1,0 +1,42 @@
+body {
+    height: 100vh;
+}
+#form{
+button{
+    padding: 10px 15px !important;
+    border: 0;
+}
+}
+#task-lists{
+    display: flex;
+    flex-direction: column;
+
+}
+#task-input{
+     zwidth: 400px;
+    padding: 10px 15px;
+
+}
+.item-lister{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin-left:10%;
+
+}
+.container{
+    margin-top: 100px;
+}
+#task{
+    width: 400px !important;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    border: 1px solid black;
+    margin-top: 5px;
+button{
+
+
+  
+}
+}
